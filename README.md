@@ -14,4 +14,5 @@ Effective feature selection techniques are crucial for improving model performan
 Common methods include:
 
 Forward Selection: Starts with no predictors and adds them one by one based on statistical significance.
+
 Backward Elimination: Begins with all predictors and removes the least significant ones iteratively.
